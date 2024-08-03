@@ -11,15 +11,6 @@
     <modules>
         <module>test</module>
         <module>linkedIn</module>
-        <module>linkedIn/designPatterns</module>
-        <module>linkedIn/designPatterns/adapter-pattern-exercise</module>
-        <module>linkedIn/designPatterns/bridge-pattern-exercise</module>
-        <module>linkedIn/designPatterns/composite-pattern-exercise</module>
-        <module>linkedIn/designPatterns/decorator-pattern-exercise</module>
-        <module>linkedIn/designPatterns/facade-pattern-exercise</module>
-        <module>linkedIn/designPatterns/flyweight-pattern-exercise</module>
-        <module>linkedIn/designPatterns/proxy-pattern-exercise</module>
-        <module>linkedIn/designPatterns/behanior-pattern</module>
     </modules>
 
     <properties>
