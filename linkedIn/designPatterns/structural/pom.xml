@@ -5,16 +5,21 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>org.example</groupId>
-        <artifactId>linkedIn</artifactId>
+        <artifactId>designPatterns</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>designPatterns</artifactId>
+    <artifactId>structural</artifactId>
     <packaging>pom</packaging>
 
     <modules>
-        <module>behavior</module>
-        <module>structural</module>
+        <module>adapter-pattern-exercise</module>
+        <module>bridge-pattern-exercise</module>
+        <module>composite-pattern-exercise</module>
+        <module>decorator-pattern-exercise</module>
+        <module>facade-pattern-exercise</module>
+        <module>flyweight-pattern-exercise</module>
+        <module>proxy-pattern-exercise</module>
     </modules>
 
 </project>
