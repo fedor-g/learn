@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/adapter-pattern-exercise/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/adapter-pattern-exercise/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/behanior-pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/behanior-pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/bridge-pattern-exercise/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/bridge-pattern-exercise/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/composite-pattern-exercise/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/composite-pattern-exercise/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/decorator-pattern-exercise/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/decorator-pattern-exercise/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/facade-pattern-exercise/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/facade-pattern-exercise/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/flyweight-pattern-exercise/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/flyweight-pattern-exercise/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/proxy-pattern-exercise/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/proxy-pattern-exercise/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
