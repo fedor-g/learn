@@ -5,6 +5,10 @@
     <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/adapter-pattern-exercise/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/behanior-pattern/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/behanior-pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/behavior/chain-of-responsibility/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/behavior/chain-of-responsibility/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/behavior/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/behavior/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/bridge-pattern-exercise/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/bridge-pattern-exercise/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/composite-pattern-exercise/src/main/java" charset="UTF-8" />
@@ -19,6 +23,22 @@
     <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/proxy-pattern-exercise/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/structural/adapter-pattern-exercise/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/structural/adapter-pattern-exercise/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/structural/bridge-pattern-exercise/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/structural/bridge-pattern-exercise/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/structural/composite-pattern-exercise/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/structural/composite-pattern-exercise/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/structural/decorator-pattern-exercise/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/structural/decorator-pattern-exercise/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/structural/facade-pattern-exercise/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/structural/facade-pattern-exercise/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/structural/flyweight-pattern-exercise/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/structural/flyweight-pattern-exercise/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/structural/proxy-pattern-exercise/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/structural/proxy-pattern-exercise/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/structural/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedIn/designPatterns/structural/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/linkedIn/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/linkedIn/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />

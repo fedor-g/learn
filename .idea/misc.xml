@@ -5,6 +5,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/linkedIn/designPatterns/pom.xml" />
+        <option value="$PROJECT_DIR$/linkedIn/designPatterns/behavior/pom.xml" />
+        <option value="$PROJECT_DIR$/linkedIn/designPatterns/structural/pom.xml" />
       </list>
     </option>
   </component>
